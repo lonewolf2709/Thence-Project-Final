@@ -14,7 +14,6 @@
     height: 178px;
     margin-top: 79px;
     gap: 16px;
-    opacity: 0px;
 }
 .home-text{
     width: 588px;
@@ -68,7 +67,6 @@
     margin-top: 32px;
     gap: 0px;
     border-radius: 40px;
-    opacity: 0px; 
     background-color: #E8EEE7;
 }
 .text-top{
@@ -78,7 +76,6 @@
    top: 80px;
    left: 94.5px;
    gap: 20px;
-   opacity: 0px;
 }
 .text1{
     width: 215px;
@@ -152,7 +149,6 @@ text-align: left;
     padding: 30px;
     gap: 10px;
     border-radius: 27.11px;
-    opacity: 0px;
     z-index: 50;
     background-color: #FFFFFF;
     box-shadow: 0px 22.59px 36.14px 0px #1E1E1E17;
@@ -189,7 +185,6 @@ padding: 34px 30px 40px 36px;
 gap: 20px;
 border-radius: 28.36px;
 border: 1.18px 0px 0px 0px;
-opacity: 0px;
 background-color: #002E18;
 border: 1.18px solid;
 border-image-source: linear-gradient(159.14deg, #3D3D3D 6.08%, rgba(61, 61, 61, 0) 85.58%);
@@ -199,7 +194,6 @@ box-shadow: 0px 23.63px 37.81px 0px #1E1E1E17;
     width: 119px;
     height: 76px;
     gap: 0px;
-    opacity: 0px;
     font-family: Switzer;
     font-size: 63.37px;
     font-weight: 500;
@@ -213,7 +207,6 @@ box-shadow: 0px 23.63px 37.81px 0px #1E1E1E17;
     width: 91px;
 height: 32px;
 gap: 0px;
-opacity: 0px;
 font-family: Switzer;
 font-size: 22.81px;
 font-weight: 500;
@@ -228,7 +221,6 @@ color:#A6A3A0
     width: 224.49px;
 height: 69px;
 gap: 0px;
-opacity: 0px;
 font-family: Manrope;
 font-size: 18px;
 font-weight: 500;
@@ -247,7 +239,6 @@ margin:0;
     padding: 16px 32px 16px 16px;
     gap: 14px;
     border-radius: 111.54px;
-    opacity: 0px;
     background-color: white;
     box-shadow: 0px 15.21px 35.49px 0px #00000017;
 }
@@ -306,7 +297,6 @@ text-align: left;
     gap: 0px;
     margin-bottom: 20px;
 border-radius: 40px;
-opacity: 0px;
 background: #F5F5F5;
 }
 .lf-text{
@@ -326,7 +316,6 @@ background: #F5F5F5;
     width: 112px;
 height: 20px;
 gap: 0px;
-opacity: 0px;
 font-family: Manrope;
 font-size: 18px;
 font-weight: 400;
@@ -337,7 +326,6 @@ text-align: left;
     width: 162px;
 height: 20px;
 gap: 0px;
-opacity: 0px;
 font-family: Manrope;
 font-size: 18px;
 font-weight: 400;
