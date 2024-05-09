@@ -1,0 +1,60 @@
+.finish-outer{
+    position: relative;
+    width: 718px;
+    height: 357px;
+    top: 100px;
+    left: 361px;
+    gap: 41px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.success{
+    font-family: Covered By Your Grace;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 39.6px;
+    letter-spacing: -0.02em;
+    margin:0;
+    color: #2DA950;
+}
+.congrats{
+    font-family: Manrope;
+font-size: 56px;
+font-weight: 600;
+line-height: 67.2px;
+letter-spacing: -0.02em;
+text-align: center;
+margin:0;
+}
+.message{
+    font-family: Manrope;
+font-size: 27px;
+font-weight: 500;
+line-height: 35.1px;
+text-align: center;
+margin:0;
+color: #727272;
+}
+.x{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.redirect{
+    position: absolute;
+    bottom:0;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.t{
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+text-align: center;
+}

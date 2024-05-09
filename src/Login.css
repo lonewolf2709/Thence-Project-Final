@@ -1,0 +1,94 @@
+.outer{
+    position: relative;
+    width:588px;
+    height:538.22px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    top:50px;
+    gap:62px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width:588px;
+    height:178px;
+    gap:16px;
+}
+.form{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width:417px;
+    height:298.22px;
+    gap:24px;
+}
+.upper{
+    font-size: 36px;
+    font-weight:400;
+    line-height:39.6px;
+    font-family: "Covered By Your Grace", cursive;
+    color:#2DA950;
+    margin:0;
+
+}
+.lower{
+    font-family: "Manrope";
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 67.2px;
+    letter-spacing: -0.02em;
+    text-align: center; 
+    margin:0;   
+}
+.name{
+    font-family: "Manrope";
+    font-weight:500;
+    font-size: 20px;
+    width:417px;
+    height: 75px;
+    border: 1px solid #00000005;
+    background-color: #EFEFEF;
+    padding: 24px 36px 24px 36px;
+    gap: 10px;
+    border-radius: 64px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+.email{
+    font-family: "Manrope";
+    font-weight:500;
+    font-size: 20px;
+    width:417px;
+    height: 75px;
+    border: 1px solid #00000005;
+    background-color: #EFEFEF;
+    padding: 24px 36px 24px 36px;
+    gap: 10px;
+    border-radius: 64px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+.but{
+    font-family: "Manrope";
+    font-weight:600;
+    font-size: 18px;
+    width: 417px;
+    height: 77.22px;
+    margin-top:10px;
+    padding: 26.11px 49.61px 26.11px 41.78px;
+    gap: 15.67px;
+    border-radius: 107.06px;
+    opacity: 0px;
+    background-color: #C9C9C9;
+}
+.error{
+    margin:0;
+    color:red;
+}

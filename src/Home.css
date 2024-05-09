@@ -1,0 +1,352 @@
+.home{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home-top{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   justify-content: center;
+    width: 588px;
+    height: 178px;
+    margin-top: 79px;
+    gap: 16px;
+    opacity: 0px;
+}
+.home-text{
+    width: 588px;
+    height: 178px;
+    top: 79px;
+    left: 426px;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.first{
+    width: 197px;
+    height: 28px;
+    font-family: Covered By Your Grace;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 39.6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin:0;   
+    color:#2DA950;
+ 
+}
+.second{
+    font-family: Manrope;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 67.2px;
+    letter-spacing: -0.02em;
+    text-align: center;    
+    margin:0;
+}
+.img-mid{
+    position: absolute;
+    width: 506.98px;
+    height: 546.27px;
+    top: 369px;
+    left: 206.69px;
+    gap: 0px;
+    border-radius: 50.7px;
+}
+.bottom-container{
+    position: relative;
+    top:750px;
+}
+.container{
+    position: relative;
+    width: 1376px;
+    height: 749px;
+    margin-top: 32px;
+    gap: 0px;
+    border-radius: 40px;
+    opacity: 0px; 
+    background-color: #E8EEE7;
+}
+.text-top{
+   position: absolute;
+   width: 405px;
+   height: 111px;
+   top: 80px;
+   left: 94.5px;
+   gap: 20px;
+   opacity: 0px;
+}
+.text1{
+    width: 215px;
+    height: 25px;
+    font-family: Covered By Your Grace;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 35.2px;
+    letter-spacing: -0.02em;
+    text-align: left;  
+    margin-bottom: 20px;    
+}
+.text2{
+    width: 405px;
+    height: 66px;
+    font-family: Manrope;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 66px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    margin:0;          
+}
+.faq{
+    position:absolute;
+    width: 581px;
+    height:538px;
+    top: 137px;
+    left: 721px;
+    gap: 36px;
+}
+.faq-answer{
+    width: 581px;
+    font-family: Manrope;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;   
+    margin: 0; 
+}
+.faq-question{
+    width: 100%;
+font-family: Manrope;
+font-size: 20px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+}
+.y{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img-faq{
+    position: absolute;
+    width: 491px;
+    height: 514.61px;
+    top: 274px;
+    left:0;
+}
+.bottom-container {
+    position: relative;
+    margin-top: 20px; 
+}
+.c1{
+    position: absolute;
+    width: 267.82px;
+    height: 200px;
+    top: 483px;
+    left: 35px;
+    padding: 30px;
+    gap: 10px;
+    border-radius: 27.11px;
+    opacity: 0px;
+    z-index: 50;
+    background-color: #FFFFFF;
+    box-shadow: 0px 22.59px 36.14px 0px #1E1E1E17;
+}
+.val1{
+    width: 121px;
+    height: 77px;
+    font-family: Switzer;
+font-size: 64px;
+font-weight: 500;
+line-height: 76.8px;
+letter-spacing: -0.03em;
+text-align: left;
+margin:0;  
+}
+.con1{
+    width: 207.82px;
+    height: 92px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    text-align: left;
+    color:#828282;  
+    margin:0;  
+}
+.c2{
+    position: absolute;
+    width: 290.49px;
+height: 200px;
+top: 726px;
+left: 499px;
+padding: 34px 30px 40px 36px;
+gap: 20px;
+border-radius: 28.36px;
+border: 1.18px 0px 0px 0px;
+opacity: 0px;
+background-color: #002E18;
+border: 1.18px solid;
+border-image-source: linear-gradient(159.14deg, #3D3D3D 6.08%, rgba(61, 61, 61, 0) 85.58%);
+box-shadow: 0px 23.63px 37.81px 0px #1E1E1E17;
+}
+.val2{
+    width: 119px;
+    height: 76px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Switzer;
+    font-size: 63.37px;
+    font-weight: 500;
+    line-height: 76.05px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin:0;  
+    color:white;    
+}
+.span-style{
+    width: 91px;
+height: 32px;
+gap: 0px;
+opacity: 0px;
+font-family: Switzer;
+font-size: 22.81px;
+font-weight: 500;
+line-height: 31.94px;
+letter-spacing: 0.01em;
+text-align: left;
+margin:0;   
+margin-left:3px;
+color:#A6A3A0
+}
+.con2{
+    width: 224.49px;
+height: 69px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 500;
+line-height: 23.4px;
+text-align: left;
+color:#CCCCCC;
+margin:0;   
+}
+.c3{
+    display: flex;
+    position:absolute;
+    width: 245px;
+    height: 50px;
+    top: 781.71px;
+    left: 148.19px;
+    padding: 16px 32px 16px 16px;
+    gap: 14px;
+    border-radius: 111.54px;
+    opacity: 0px;
+    background-color: white;
+    box-shadow: 0px 15.21px 35.49px 0px #00000017;
+}
+.val3{
+    width: 92px;
+    height: 33px;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.78px;
+    text-align: left;    
+    margin:0;
+}
+.con3{
+    width: 131px;
+height: 21px;
+font-family: Manrope;
+font-size: 16px;
+font-weight: 500;
+line-height: 20.8px;
+text-align: left;
+color:#828282;
+margin:0;
+}
+.img-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:52px;
+    height:52px;
+    background-color:#DDEFE0;
+    border-radius: 50%;
+}
+.cara{
+    position: absolute;
+    width: 398px;
+    height: 192px;
+    top: 440px;
+    left: 920px;    
+}
+.cara-text{
+    font-family: Manrope;
+font-size: 40px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: -0.02em;
+text-align: left;
+}
+.footer{
+    position: relative;
+    top:800px;
+    display: flex;
+    justify-content: space-between;
+    width: 1376px;
+    padding: 30px;
+    gap: 0px;
+    margin-bottom: 20px;
+border-radius: 40px;
+opacity: 0px;
+background: #F5F5F5;
+}
+.lf-text{
+    width: 270px;
+    height: 20px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 19.8px;
+    text-align: left;    
+}
+.right-footer{
+    display: flex;
+    gap:20px;
+}
+.rf-text2{
+    width: 112px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 400;
+line-height: 19.8px;
+text-align: left;
+}
+.rf-text1{
+    width: 162px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 400;
+line-height: 19.8px;
+text-align: left;
+}
+.empty{
+    position: relative;
+    width:100%;
+    height:20px;
+    top:800px;
+}
